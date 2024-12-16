@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    text-align: center;
+    border: 2px solid red;
+    background-color: aqua;
+}
+i {
+    color: red;
+}
+h3 {
+    text-align: center;
+    border: 1px solid yellow;
+    background-color: yellow;
+}
+h4{
+    text-align: center;
+    border: 0px solid yellow;
+    background-color: yellow;
+}
+thead, tr, th {
+    border: 1px solid black;
+    padding: 6px 150px;
+}
+.red1 {
+    background-color: red;
+}
+.black {
+    background-color: black;
+}
+.green1 {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
